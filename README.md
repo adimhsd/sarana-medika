@@ -1,4 +1,4 @@
-# Saranamedika
+# Sarana Medika
 
 Sistem informasi berbasis web untuk pengelolaan data dan transaksi internal CV. Sarana Medika.
 
